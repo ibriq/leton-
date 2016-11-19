@@ -2,17 +2,23 @@
 
 ## Dialogul 1
 
-David: Labvakar! Es esmu Deivids.
-Ilze: Labvakar! Ļoti patīkami. Es esmu Ilze.
-David: Vīnu? Alu?
-Ilze: Sulu, lūdzu.
+> **David:** Labvakar! Es esmu Deivids.
 
-David aduce ilzei un pahar de suc.
+> **Ilze:** Labvakar! Ļoti patīkami. Es esmu Ilze.
 
-David: Lūdzu.
-Ilze: Paldies.
-David: Nav par ko.
+> **David:** Vīnu? Alu?
 
+> **Ilze**: Sulu, lūdzu.
+
+> *David aduce ilzei un pahar de suc.*
+
+> **David**: Lūdzu.
+
+> **Ilze**: Paldies.
+
+> **David**: Nav par ko.
+
+### Vocabular
 1. labvakar = bună seara
 1. es esmu = eu sunt
 1. ļoti patīkami = încântat de cunoștiință
